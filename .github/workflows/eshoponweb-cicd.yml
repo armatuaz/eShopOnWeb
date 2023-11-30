@@ -9,8 +9,7 @@ env:
   LOCATION: westus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 98445f7b-150d-4387-bcdb-432f74a411c2
-  WEBAPP-NAME: az400-webapp-armatu
-
+  WEBAPP-NAME: az400-webapp-eShopOnWeb
 
 jobs:
   #Build, test and publish .net web project in repository
